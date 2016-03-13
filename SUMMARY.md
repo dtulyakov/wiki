@@ -1,7 +1,7 @@
 # Summary
 
+* [Introduction](README.md)
 * [Оглавление](SUMMARY.md)
-* [Первая часть](chapter1.md)
 * [Вторая часть](chapter2.md)
 * [QR код](chapter3.md)
 
