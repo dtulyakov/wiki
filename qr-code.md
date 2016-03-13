@@ -11,8 +11,6 @@ $zbarcam для устройства видеозахвата (камеры)
 
 qrencode консольная утилита для считывания и создания
 
-.. code-block:: bash
-
     $ qrencode -o [filename.png] '[text/url/information to encode]'
     $ qrencode -o google.png 'http://www.google.com'
     $ qrencode -o ~/Desktop/google.png -s 6 'http://www.google.com'
@@ -20,8 +18,6 @@ qrencode консольная утилита для считывания и со
 qreator ГУИ утилита для создания
 
 Варианты:
-
-.. code-block:: text
 
     URL - Генерация кода с ссылкой
     Text - Генерация кода с любым текстом
